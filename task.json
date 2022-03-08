@@ -1,0 +1,55 @@
+{
+  "filters": [],
+  "groups": [],
+  "rowInfos": [{
+  "actions": null,
+  "drillDownParameters": "",
+  "drillDownUrl": "",
+  "keyData": null,
+  "key": null,
+  "rowColor": "Red",
+  "imageUrl": "",
+  "rowFieldsList": [{
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$6ae282c55e8e4266ae66ffc070c17fa3",
+    "fieldValue": "1815690"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$93734aaff77b19d1fcfd1d4b4aba1b0af895f25788",
+    "fieldValue": "Rosann Ferrigno Leser"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$290114239acc43cd92a7ee58acdc1da2",
+    "fieldValue": "Rosann Ferrigno Leser"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$c1e86f31eb2c4c5f8e8615a5189e9b19",
+    "fieldValue": "8/20/2020 2:50 AM"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$5eb3234ae1344c64a19819eda437f18d",
+    "fieldValue": "Review"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$252b836fc72c4149915053ca1131d138",
+    "fieldValue": "JFK T8 Flagship Lounge Expansion. Part of the JFK T8 Terminal Expansion program."
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$9365b4209be3fff3623a4a4d6ab76991c2f01ea109",
+    "fieldValue": "9/2/2020 2:50 AM"
+  }, {
+    "fieldName": "BO$6dd53665c0c24cab86870a21cf6434ae_FI$94008c4b2db6261ee7243243fb90b272e267eb7b7c",
+    "fieldValue": "107839-1"
+  }],
+  "selected": false,
+  "busObRecId": "94641b80342105da4d94444eaf8cd3654058b4e9bd",
+  "busObId": "6dd53665c0c24cab86870a21cf6434ae",
+  "publicId": "1815690",
+  "addressBookEmailAddress": "",
+  "addressBookDisplayName": ""
+}],
+  "rows": [],
+  "forceBuildActionMenu": false,
+  "totalRows": 283,
+  "selectedRowBusObRecId": null,
+  "selectedBusObRecIds": [],
+  "horizontalScrollPosition": 0.0,
+  "verticalScrollPosition": 0.0,
+  "selectedRowResponse": {
+    "selectedRowCount": 0
+  },
+  "exportResultsMessage": null
+}
